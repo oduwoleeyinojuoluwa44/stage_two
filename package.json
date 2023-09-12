@@ -1,0 +1,29 @@
+{
+  "name": "stage_two",
+  "version": "1.0.0",
+  "description": "HNGx stage 2 task",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "hng",
+    "internship",
+    "backend"
+  ],
+  "author": "Oduwole Eyinojuoluwa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0"
+  }
+}
