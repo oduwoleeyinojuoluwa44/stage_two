@@ -6,7 +6,7 @@ This repository contains the code for the Stage Two task of the HNG Backend Inte
 
 This project is created to fulfill the requirements for HNGx Stage Two backend task. <br/>It is built using Node.js and utilizes MongoDB as a NoSQL database. The project also utilizes the MongooseJS library, which is an Object Data Modelling (ODM) library for MongoDB.<br/> Additionally, the project uses the Express.js framework for building web applications in Node.js.
 
-It is hosted on Render and can be accessed via this link: 
+It is hosted on Render and can be accessed via this link: https://stage-two-0ond.onrender.com/api
 
 ## Installation
 
@@ -15,13 +15,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone 
-   ```
-
-2. Navigate to the `stage_two` directory:
-
-   ```
-   cd hngx/stage_two
+   git clone https://github.com/oduwoleeyinojuoluwa44/stage_two.git
    ```
 
 3. Install project dependencies:
